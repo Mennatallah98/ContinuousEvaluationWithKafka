@@ -14,10 +14,4 @@ The following operations are preformed in the model:
 
 ## Dynamic model
 
-The following operations are preformed in the model:
-
->* Data Analysis. 
->* Feature engineering and data cleaning.
->* Feature Filtering/Selection. 
->* Model Training.
->* Model evaluation. 
+The model is trained on the incoming data and its preformance is compared to the static modl. 
