@@ -6,9 +6,9 @@ This is implement a binary classifier aiming at predicting data exfiltration via
 
 The following operations are preformed in the model:
 
-   &emsp; &emsp; - Data Analysis. <br>
-   &emsp; &emsp; - Feature engineering and data cleaning. <br>
-   &emsp; &emsp; - Feature Filtering/Selection. <br>
-   &emsp; &emsp; - Model Training. <br>
-   &emsp; &emsp; - Model evaluation. <br>
+* Data Analysis. 
+* Feature engineering and data cleaning.
+* Feature Filtering/Selection. 
+* Model Training.
+* Model evaluation. 
 
