@@ -14,4 +14,4 @@ The following operations are preformed in the model:
 
 ## Dynamic model
 
-The model is trained on the incoming data and its preformance is compared to the static modl. 
+The model is trained on the incoming data and its preformance is compared to the static model. 
