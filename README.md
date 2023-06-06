@@ -12,3 +12,12 @@ The following operations are preformed in the model:
 >* Model Training.
 >* Model evaluation. 
 
+## Dynamic model
+
+The following operations are preformed in the model:
+
+>* Data Analysis. 
+>* Feature engineering and data cleaning.
+>* Feature Filtering/Selection. 
+>* Model Training.
+>* Model evaluation. 
